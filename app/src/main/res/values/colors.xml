@@ -5,4 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorBlue">#000080</color>
     <color name="colorGreen">#008000</color>
+    <color name="sky">#4169e1</color>
+    <color name="forest">#006400</color>
+    <color name="earth">#8b4513</color>
 </resources>
